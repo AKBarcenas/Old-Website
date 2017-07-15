@@ -14,7 +14,7 @@ class App extends Component {
           <h3>I'm currently rebulding my website using React, but you can check out my resume and profiles below.</h3>
         </div>
         <div className="Links">
-          <a href="http://akbarcenas.github.io/AlexanderBarcenasResume.pdf" className="button">Resume</a>
+          <a href="AlexanderBarcenasResume.pdf" className="button">Resume</a>
           <div>
             <a href="https://github.com/AKBarcenas">
               <FontAwesome name="github" size="2x" className="Icons"/>
